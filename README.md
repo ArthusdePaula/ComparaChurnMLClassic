@@ -3,9 +3,13 @@ Durante o estudo da ciência de dados nos vemos com inúmeros tipos de modelos e
 
 ## Modelos Utilizados
 Naive Bayes: Um modelo simples, porém rápido, que pode ser eficiente para conjuntos de dados pequenos e bem formatados.
+
 Regressão Logística: Modelo clássico para problemas de classificação binária.
+
 K-Nearest Neighbors (K-NN): Um algoritmo baseado em instâncias, que classifica novos exemplos com base nas distâncias de seus vizinhos mais próximos.
+
 Random Forest: Um modelo robusto baseado em árvores de decisão, útil para capturar padrões complexos nos dados.
+
 LightGBM: Um algoritmo otimizado para grandes datasets, que constrói árvores de decisão de forma eficiente.
 
 ## Avaliação dos Modelos
