@@ -15,14 +15,15 @@ Acurácia: Percentual de predições corretas.
 Precisão: Percentual de predições positivas corretas.
 Recall: Percentual de verdadeiros positivos identificados.
 F1 Score: Média harmônica entre precisão e recall.
+Foi observado também custo computacional ao longo dos treinamentos.
 
 ## Resultados
 LightGBM e Random Forest obtiveram os melhores resultados em termos de acurácia e F1 Score, sendo capazes de capturar as interações mais complexas entre as variáveis que influenciam o churn.
 As variáveis mais importantes incluíram Tenure (tempo de contrato), Support Calls (chamadas de suporte) e Payment Delay (atraso de pagamento).
-Contribuindo
-Sinta-se à vontade para contribuir com melhorias ao projeto. Para isso, siga os passos abaixo:
 
-## Faça um fork do projeto.
+##Contribuindo
+Sinta-se à vontade para contribuir com melhorias ao projeto. Para isso, siga os passos abaixo:
+Faça um fork do projeto.
 Crie uma nova branch com suas modificações: git checkout -b minha-branch.
 Faça commit das suas alterações: git commit -m 'Minha contribuição'.
 Envie para o repositório: git push origin minha-branch.
