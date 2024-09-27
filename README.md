@@ -29,7 +29,7 @@ Foi observado também custo computacional ao longo dos treinamentos.
 LightGBM e Random Forest obtiveram os melhores resultados em termos de acurácia e F1 Score, sendo capazes de capturar as interações mais complexas entre as variáveis que influenciam o churn.
 As variáveis mais importantes incluíram Tenure (tempo de contrato), Support Calls (chamadas de suporte) e Payment Delay (atraso de pagamento).
 
-##Contribuindo
+## Contribuindo
 Sinta-se à vontade para contribuir com melhorias ao projeto. Para isso, siga os passos abaixo:
 Faça um fork do projeto.
 Crie uma nova branch com suas modificações: git checkout -b minha-branch.
