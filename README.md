@@ -16,9 +16,13 @@ LightGBM: Um algoritmo otimizado para grandes datasets, que constrói árvores d
 Os modelos foram avaliados com as seguintes métricas:
 
 Acurácia: Percentual de predições corretas.
+
 Precisão: Percentual de predições positivas corretas.
+
 Recall: Percentual de verdadeiros positivos identificados.
+
 F1 Score: Média harmônica entre precisão e recall.
+
 Foi observado também custo computacional ao longo dos treinamentos.
 
 ## Resultados
